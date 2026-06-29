@@ -36,7 +36,7 @@ GroupDNA parses a raw WhatsApp `.txt` export and runs eight analytical features 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/<your-username>/GroupDNA.git
+git clone https://github.com/ParvathyM155/GroupDNA.git
 cd GroupDNA
 
 # 2. Install the only dependency
